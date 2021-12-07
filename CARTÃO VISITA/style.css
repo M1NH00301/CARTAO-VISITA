@@ -1,0 +1,70 @@
+body{
+    background-color: burlywood;
+    display: flexbox;
+    margin: 0px auto;
+    text-align: center;
+}
+
+.topo{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.apresentacao{
+    display: flex;
+    background-color: darkgrey;
+    border-radius: 15px;
+    width: 700px;
+    margin: 0px auto;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.principal{
+    font-family: cursive;
+    font-size: xx-large;
+    color: black;;
+    background-color:blueviolet;
+}
+
+.secundario{
+    font-family:cursive;
+    font-size: small;
+
+}
+
+.foto{
+    height: 250px;
+    border-radius: 15px;
+    margin: 0px auto;
+}
+
+.txt{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.entrada2{
+    font-family: cursive;
+    color: blue;
+}
+
+.instagram{
+    height: 120px;
+}
+
+.github{
+    height: 120px;
+}
+
+.discord{
+    height: 120px;
+}
+
+.linkedin{
+    height: 120px;
+}
+
+.tt{
+    background-color: aqua;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
